@@ -1,6 +1,7 @@
 ## GenVidBench: A Challenging Benchmark for Detecting AI-Generated Video
 
-Dataset: [BaiDuYun](https://pan.baidu.com/s/1KWg3znu14AOC6iOOT_iqMg#list/path=%2F) The code is: 6Bb4
+Dataset Download: 
+[HuggingFace](https://huggingface.co/datasets/jian-0/GenVidBench) ; [BaiDuYun](https://pan.baidu.com/s/1KWg3znu14AOC6iOOT_iqMg#list/path=%2F) (The code is : 6Bb4)
 
 Instruction
 ---
