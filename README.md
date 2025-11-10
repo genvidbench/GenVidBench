@@ -19,6 +19,11 @@ News
 
 2025/01/25: The training code is released.
 
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=genvidbench/GenVidBench&type=date&legend=top-left)](https://www.star-history.com/#genvidbench/GenVidBench&type=date&legend=top-left)
+
 License
 ---
 CC BY-NC 4.0
