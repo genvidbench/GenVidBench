@@ -1,5 +1,5 @@
 ## 【AAAI 2026】GenVidBench: A Challenging Benchmark for Detecting AI-Generated Video
-Zhen-Liang Ni*, Qiangyu Yan*, Tianning Yuan, Mouxiao Huang, Yehui Tang
+Zhen-Liang Ni*, Qiangyu Yan*, Mouxiao Huang, Tianning Yuan, Yehui Tang
 Hailin Hu✉️, Xinghao Chen✉️, Yunhe Wang✉️
 
 Dataset Download: 
