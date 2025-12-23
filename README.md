@@ -31,8 +31,7 @@ We conduct a comprehensive evaluation of different advanced video generators and
 
 <img width="600" height="400" alt="f1" src="https://github.com/user-attachments/assets/4de33683-160e-4966-8a95-6fca39cfc869" />
 
-<img width="640" height="360" alt="results_143k" src="https://github.com/user-attachments/assets/787c131c-78b2-4e09-b4eb-0b3c6755e19a" />
-
+<img width="640" height="360" alt="results_143k" src="https://github.com/user-attachments/assets/4bd9bba3-1d75-46ed-bbe0-9f7c2d5863a6" />
 
 
 ## Star History
