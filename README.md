@@ -27,12 +27,13 @@ We conduct a comprehensive evaluation of different advanced video generators and
 <img width="1704" height="744" alt="data_sum" src="https://github.com/user-attachments/assets/54058a77-77bc-42a6-9a31-aef60ee7c4cc" />
 
 ## Results
-<img width="1693" height="551" alt="result_6m" src="https://github.com/user-attachments/assets/00419f03-7068-4e02-9226-e15c58e116e4" />
+<div align="center">
+  <img width="1200" height="350" alt="result_6m" src="https://github.com/user-attachments/assets/00419f03-7068-4e02-9226-e15c58e116e4" />
 
-<img width="600" height="400" alt="f1" src="https://github.com/user-attachments/assets/4de33683-160e-4966-8a95-6fca39cfc869" />
+  <img width="550" height="400" alt="f1" src="https://github.com/user-attachments/assets/4de33683-160e-4966-8a95-6fca39cfc869" />
 
-<img width="640" height="360" alt="results_143k" src="https://github.com/user-attachments/assets/4bd9bba3-1d75-46ed-bbe0-9f7c2d5863a6" />
-
+  <img width="550" height="350" alt="results_143k" src="https://github.com/user-attachments/assets/11c0c6b5-61e6-4452-9ed9-b0676e9830ae" />
+</div>
 
 ## Star History
 
