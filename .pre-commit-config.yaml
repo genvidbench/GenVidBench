@@ -25,8 +25,8 @@ repos:
         args: ["--remove"]
       - id: mixed-line-ending
         args: ["--fix=lf"]
-  - repo: https://github.com/myint/docformatter
-    rev: v1.3.1
+  - repo: https://github.com/PyCQA/docformatter
+    rev: 1.7.5
     hooks:
       - id: docformatter
         args: ["--in-place", "--wrap-descriptions", "79"]
