@@ -7,6 +7,8 @@ Dataset Download:
 
 News
 ---
+2026/02/28: The 6.78M dataset has been released on [HuggingFace](https://huggingface.co/datasets/jian-0/GenVidBench). Videos from Pika, VideoCraftV2, ModelScope, and T2V‑Zero can be obtained from [VidProM](https://huggingface.co/datasets/WenhaoWang/VidProM/tree/main).
+
 2025/12/23: The camera-ready version of AAAI has been updated on Arxiv, which includes an introduction to 6.78M dataset.
 
 2025/11/09: Good news! Our paper has been accepted by AAAI 2026. And in the near future we'll release the latest paper and a 6.7M dataset, which will be the largest dataset in the field.
