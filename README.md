@@ -13,8 +13,6 @@ News
 
 2025/11/09: Good news! Our paper has been accepted by AAAI 2026. And in the near future we'll release the latest paper and a 6.7M dataset, which will be the largest dataset in the field.
 
-2025/02/11: Update the download link and fixed the bug. Note that we uploaded the ID of Pair1 in the original dataset to path 'data/sampled_dataset_uuid.zip'. Due to copyright restrictions, We can't provide these videos directly. You can select the corresponding video from these three data sets Vript/HD-VG-130M/VidProM based on these IDs. 
-
 2025/01/25: The training code is released.
 
 Instruction
